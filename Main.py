@@ -1,3 +1,5 @@
+# Copywrite 2020 Talia
+
 import pygame
 from pygame import mixer
 import random
